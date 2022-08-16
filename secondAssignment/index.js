@@ -8,6 +8,8 @@ function removeDuplicate(string)
 }
 console.log(removeDuplicate('abcadeecfb'));
 
+//Output => abcdef
+
 
 // Print the count of all alphabet 
 
@@ -18,3 +20,5 @@ function countChars(text)
     return map;}, {});
 }
 console.log(countChars('abcadeecfb'));
+
+//Output => {a: 2, b: 2, c: 2, d: 1, e: 2, …}
