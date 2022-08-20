@@ -1,0 +1,49 @@
+
+body{
+    margin-left: 5%;
+}
+.boxOne{
+    width: 40%;
+    height: 30vh;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.subbox{
+    width: 30%;
+    height: 15vh;
+    border: 2px solid tomato;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+button{
+    margin-top: 5%;
+    border: none;
+    background-color: rgb(171, 194, 214);
+    font-size: 20px;
+    border-radius:5%;
+    width: 150px;
+    height: 30px;
+}
+
+button:hover{
+    border: 1px solid black;
+}
+
+#clock {
+    font-size: 45px;
+    width: 500px;
+    margin-top:40px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.dropDown{
+    margin-top: 20px;
+    width: 200px;
+    padding:5px;
+}
