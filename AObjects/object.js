@@ -102,6 +102,8 @@ console.log(mark);
 // Output :=>[98, 38, 60, 75]
 
 
+// Question 7:
+
 // Create 6 objects , each object will have name, class, roll no as properties. Store these objects in an array of objects. 
 
 let One =  {name: 'John', class: 10, rollNo : 8 };
