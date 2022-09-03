@@ -71,6 +71,7 @@ const student ={
     age : 25,
 };
 
+
 const studentTwo = Object.create(student, {
     dept:{
         value: 'Developer',
